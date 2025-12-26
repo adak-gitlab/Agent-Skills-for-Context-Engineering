@@ -1,6 +1,6 @@
 Some technical blogs that I recently read and find valuable:
 
-(ontext Engineering
+(Context Engineering
 
 11 min read
 
